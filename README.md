@@ -1,2 +1,5 @@
-# test
-test description
+# TBusefuls
+このデータパックはTB_Rise0018Yによって制作される汎用便利ツールです
+このデータパックでは
+How To Use (どうやって使うか)をHTUと省略しています
+全てのfunctionフォルダにHTUが存在しますので使用時はこれらを取説のように扱ってください
